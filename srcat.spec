@@ -1,5 +1,5 @@
 Summary:	Utility to extract data from a full set of SR disks
-Summary(pl.UTF-8):   Narzędzie do wyciągania danych z pełnego zestawu dysków SR
+Summary(pl.UTF-8):	Narzędzie do wyciągania danych z pełnego zestawu dysków SR
 Name:		srcat
 Version:	0
 Release:	0.alpha.1
