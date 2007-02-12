@@ -1,5 +1,5 @@
 Summary:	Utility to extract data from a full set of SR disks
-Summary(pl):	Narzêdzie do wyci±gania danych z pe³nego zestawu dysków SR
+Summary(pl.UTF-8):   NarzÄ™dzie do wyciÄ…gania danych z peÅ‚nego zestawu dyskÃ³w SR
 Name:		srcat
 Version:	0
 Release:	0.alpha.1
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This alpha utility enables the user to extract data from disks that
 were used in an SR. No warranty.
 
-%description -l pl
-To narzêdzie (w stadium alpha) pozwala na wyci±gniêcie danych z dysków
-u¿ywanych w SR. Nie daje ¿adnej gwarancji.
+%description -l pl.UTF-8
+To narzÄ™dzie (w stadium alpha) pozwala na wyciÄ…gniÄ™cie danych z dyskÃ³w
+uÅ¼ywanych w SR. Nie daje Å¼adnej gwarancji.
 
 %prep
 %setup -q -n %{name}-alpha-%{version}
